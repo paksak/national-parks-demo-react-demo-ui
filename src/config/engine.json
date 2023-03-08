@@ -1,0 +1,28 @@
+{
+  "engineName": "national-parks-demo",
+  "endpointBase": "https://127.0.0.1:3002",
+  "searchKey": "search-i56fq5nnquf8jun8yz6n5gbs",
+  "resultFields": [
+    "image_url",
+    "description",
+    "title",
+    "nps_link",
+    "states",
+    "visitors",
+    "nps_image_url",
+    "square_km",
+    "world_heritage_site",
+    "date_established",
+    "location",
+    "acres",
+    "id"
+  ],
+  "sortFields": [
+    "date_established"
+  ],
+  "facets": [
+    "acres"
+  ],
+  "titleField": "title",
+  "urlField": "nps_link"
+}
